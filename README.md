@@ -1,5 +1,4 @@
-# BookRentalManagement(도서대여관리 프로그램) 
-- JAVA기반 프로젝트
+# BookRentalManagement(도서대여관리 프로그램) - JAVA기반
 
 ## [프로젝트 방향]
 - 도서 대여점에서 고객의 정보 관리 및 대출, 반납, 연체 등의 서비스를 체계적으로 제공하는 프로그램을 개발
