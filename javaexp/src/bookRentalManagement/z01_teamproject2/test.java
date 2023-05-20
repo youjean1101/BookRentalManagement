@@ -1,4 +1,4 @@
-package javaexp.z01_teamproject2;
+package bookRentalManagement.z01_teamproject2;
 
 import java.util.List;
 import java.util.Scanner;

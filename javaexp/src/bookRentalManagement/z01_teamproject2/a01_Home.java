@@ -1,4 +1,4 @@
-package javaexp.z01_teamproject2;
+package bookRentalManagement.z01_teamproject2;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -9,8 +9,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
-
-import javaexp.a13_database.DB;
 
 public class a01_Home {
 	

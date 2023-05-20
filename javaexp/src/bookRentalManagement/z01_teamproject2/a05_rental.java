@@ -1,4 +1,4 @@
-package javaexp.z01_teamproject2;
+package bookRentalManagement.z01_teamproject2;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -10,8 +10,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
-
-import javaexp.a13_database.DB;
 
 public class a05_rental {
 	static  a05_rental dao = new  a05_rental();

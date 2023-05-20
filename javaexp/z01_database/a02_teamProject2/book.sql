@@ -10,7 +10,7 @@ SELECT * FROM movie;SELECT * FROM movie;SELECT * FROM movie;SELECT * FROM movie;
 	rentalcnt NUMBER,
 	overduecnt NUMBER
 );
-SELECT * FROM bookuser WHERE rrn = '990101-1000000';
+SELECT * FROM bookuser; WHERE rrn = '990101-1000000';
 
 SELECT * FROM bookuser;
 WHERE uname = '김길동'

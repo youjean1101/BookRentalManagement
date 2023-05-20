@@ -1,4 +1,4 @@
-package javaexp.z01_teamproject2;
+package bookRentalManagement.z01_teamproject2;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -8,8 +8,6 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
-import javaexp.a13_database.DB;
 
 public class a04_call {
 	static a04_call dao = new a04_call();

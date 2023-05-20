@@ -1,12 +1,10 @@
-package javaexp.z01_teamproject2;
+package bookRentalManagement.z01_teamproject2;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-
-import javaexp.a13_database.DB;
 
 public class a06_delievery {
 	
