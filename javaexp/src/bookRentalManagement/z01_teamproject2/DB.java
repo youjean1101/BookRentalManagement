@@ -59,7 +59,7 @@ public class DB{
 		}
 		// 2. 연결정보 처리.
 		String info = "jdbc:oracle:thin:@localhost:1521:xe";
-		con = DriverManager.getConnection(info,"scott","tiger");
+		con = DriverManager.getConnection(info,"scott","0000");
 //		System.out.println("연결성공");
 		return con;
 	}

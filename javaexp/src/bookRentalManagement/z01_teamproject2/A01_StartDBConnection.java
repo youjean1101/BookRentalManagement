@@ -19,7 +19,7 @@ public class A01_StartDBConnection {
 		}
 		// 2. 측정 서버 접속처리
 		String info = "jdbc:oracle:thin:@localhost:1521:xe";
-		con = DriverManager.getConnection(info,"scott","tiger");
+		con = DriverManager.getConnection(info,"scott","0000");
 	}
 	
 	public static void main(String[] args) {
